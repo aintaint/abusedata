@@ -1,8 +1,6 @@
 abusedata
 ============
 
-Redistributable game assets from the Crack dot Com Abuse public domain release.
-
 The artwork and names used (including "Abuse" and the level designs), are copyrighted material and therefore this data is freely available as source code and technical facts, but it's not for commercial distribution.
 
 Copyright (c) 1995 Crack dot Com
