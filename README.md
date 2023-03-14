@@ -1,4 +1,4 @@
-# abusedata
+abusedata
 ============
 
 Redistributable game assets from the Crack dot Com Abuse public domain release.
